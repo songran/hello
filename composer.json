@@ -1,0 +1,16 @@
+{
+    "name": "songran/hello",
+    "description": "example say hello",
+    "authors": [
+        {
+            "name": "songran",
+            "email": "821687825@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
