@@ -1,6 +1,7 @@
 {
     "name": "songran/hello",
     "description": "example say hello",
+    "license": "MIT",
     "authors": [
         {
             "name": "songran",
